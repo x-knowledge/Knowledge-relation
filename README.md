@@ -18,6 +18,16 @@ custom_mark10
     make_string [label="make a string"];
     node [shape=box,style=filled,color=".7 .3 1.0"];
     execute -> compare;
+    编程语言 -> 计算机科学
+    算法 -> 计算机科学
+    数据解构 -> 计算机科学
+    离散数学 -> 计算机科学
+    高等数学 -> 计算机科学
+    线性代数 -> 计算机科学
+    算法 -> 计算机科学
+    算法 -> 计算机科学
+    算法 -> 计算机科学
+    算法 -> 计算机科学
   }
 custom_mark10
 </details>
